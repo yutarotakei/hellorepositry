@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+a:hover {
+    color: red;
+}
+
+p::first-line {
+    color: blue;
+}
+aaaa
