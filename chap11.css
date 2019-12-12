@@ -2,9 +2,7 @@
 
 a:hover {
     color: red;
-}
+} 
 
 p::first-line {
-    color: blue;
-}
-aaaas
+    color: blue;}
